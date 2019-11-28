@@ -31,7 +31,7 @@ A continuación se enlistan las variables necesarias con valores de ejemplo
 
 #### POSTGRES
 
-Variables de entorno para la conexión a las bases de datos [*MySQL*][2]. Ver [definición](#variables-mysql-astennu).
+Variables de entorno para la conexión a las bases de datos.
 
 | Variable | Valor  |
 |----------|--------|
@@ -40,6 +40,18 @@ Variables de entorno para la conexión a las bases de datos [*MySQL*][2]. Ver [d
 | [DB_PASSWORD]           | password          |
 | [DB_HOST]| localhost |
 | [DB_PORT]| 5432             |
+
+#### FEDEX
+
+Variables de entorno para las credenciales de FEDEX.
+
+| Variable | Valor  |
+|----------|--------|
+| [FEDEX_KEY]          | key0000000   |
+| [FEDEX_PASSWORD]      | asdijsidjadisj        |
+| [ACCOUNTNUMBER]           | 4564556655          |
+| [METERNUMBER]| 12121212121 |
+
 
 
 
